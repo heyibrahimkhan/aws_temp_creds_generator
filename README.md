@@ -1,7 +1,7 @@
 # Description
 Generate temporary AWS STS credentials based on a preconfigured AWS profile.
 New credentials will be saved fresh/overwrite in the form of a child AWS profile.
-Script requires several parameters to be configured for it to work otherwise it may now work.
+Script requires several parameters to be configured for it to work otherwise it may not work.
 
 # How to execute
 ```
